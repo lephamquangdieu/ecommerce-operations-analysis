@@ -105,6 +105,31 @@ Die Visualisierungen basieren auf den mit PostgreSQL aufbereiteten Daten und las
 **4. Regional & Product Analysis**
 ![Regional and Product Analysis](dashboard/04_regional_product_analysis.png)
 
+## Zentrale Erkenntnisse und Handlungsempfehlungen
+
+### 1. Lieferverzögerungen wirken sich deutlich auf die Kundenzufriedenheit aus
+
+Insgesamt wurden 6,77 % der Bestellungen verspätet geliefert. Besonders auffällig ist der Unterschied bei den Kundenbewertungen: Pünktliche Lieferungen erhielten durchschnittlich 4,29 von 5 Punkten, verspätete dagegen nur 2,27 Punkte. Auch der Anteil negativer Bewertungen liegt bei verspäteten Lieferungen mit 62,36 % deutlich über dem Wert pünktlicher Lieferungen (9,23 %).
+
+**Meine Empfehlung:** Unternehmen sollten nicht erst reagieren, wenn eine Bestellung bereits verspätet ist. Sinnvoll wäre es, gefährdete Lieferungen frühzeitig zu erkennen und Kunden rechtzeitig über mögliche Verzögerungen zu informieren. Dabei sollten Bestellungen mit besonders langen Verzögerungen zuerst bearbeitet werden.
+
+### 2. In Rio de Janeiro besteht besonderer Verbesserungsbedarf
+
+Bei der regionalen Analyse fällt Rio de Janeiro mit einer Verspätungsquote von 12,11 % auf. In São Paulo liegt dieser Wert dagegen bei nur 4,49 %. Die Unterschiede zeigen, dass die Lieferperformance nicht in allen Regionen gleich gut ist.
+
+**Meine Empfehlung:** Ich würde zunächst die verspäteten Bestellungen in Rio de Janeiro genauer untersuchen. Besonders interessant wäre, ob bestimmte Versandpartner, Produktkategorien oder Lieferstrecken häufiger betroffen sind. Auf dieser Grundlage ließen sich gezieltere Verbesserungen entwickeln, statt allgemeine Maßnahmen für alle Regionen einzuführen.
+
+### 3. Lieferprobleme sollten gezielt priorisiert werden
+
+Die Verspätungsquote allein zeigt noch nicht, wie schwerwiegend die einzelnen Lieferprobleme sind. Es macht einen Unterschied, ob eine Bestellung nur einen Tag oder mehrere Wochen zu spät ankommt.
+
+**Meine Empfehlung:** Neben der Verspätungsquote sollten deshalb auch die tatsächliche Verzögerungsdauer und die Kundenbewertungen regelmäßig betrachtet werden. So könnten Unternehmen erkennen, welche Probleme besonders dringend sind und ob eingeleitete Maßnahmen tatsächlich zu Verbesserungen führen.
+
+### Fazit
+
+Für mich ist die wichtigste Erkenntnis aus diesem Projekt, wie eng die Lieferperformance mit der Kundenzufriedenheit zusammenhängt. Gleichzeitig zeigen die regionalen Unterschiede, dass sich hinter einer allgemeinen Kennzahl sehr unterschiedliche Probleme verbergen können.
+
+Die Analyse hat mir verdeutlicht, dass ein Dashboard nicht nur Ergebnisse darstellen sollte. Entscheidend ist, aus den Daten die richtigen Fragen abzuleiten und daraus konkrete nächste Schritte für das Unternehmen zu entwickeln.
 
 ## Verwendete Tools
 
