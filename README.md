@@ -92,6 +92,20 @@ Um die Ergebnisse übersichtlich darzustellen, habe ich ein Dashboard mit vier S
 
 Die Visualisierungen basieren auf den mit PostgreSQL aufbereiteten Daten und lassen sich über verschiedene Filter interaktiv untersuchen.
 
+### Dashboard Screenshots
+**1. Executive Overview**
+![Executive Overview](dashboard/01_executive_overview.png)
+
+**2. Delivery Performance**
+![Delivery Performance](dashboard/02_delivery_performance.png)
+
+**3. Customer Satisfaction**
+![Customer Satisfaction](dashboard/03_customer_satisfaction.png)
+
+**4. Regional & Product Analysis**
+![Regional and Product Analysis](dashboard/04_regional_product_analysis.png)
+
+
 ## Verwendete Tools
 
 **PostgreSQL & SQL**
